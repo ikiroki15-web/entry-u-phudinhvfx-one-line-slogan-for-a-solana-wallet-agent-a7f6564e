@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e.svg)](https://make.fun/c/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e)
+[![rank](https://make.fun/badge/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/ikiroki15-web/entry-u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/rank.svg)](https://make.fun/c/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e)
+[![reward](https://make.fun/badge/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/ikiroki15-web/entry-u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/reward.svg)](https://make.fun/c/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e)
+
 # One-Line Slogan for a Solana Wallet Agent
 
 Entry for the make.fun competition
